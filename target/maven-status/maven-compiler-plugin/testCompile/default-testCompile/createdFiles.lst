@@ -1,0 +1,5 @@
+com\tests\TheScoreTest.class
+com\utilities\ReadPropertiesFile.class
+com\driver\Driver.class
+com\pages\Score_pages.class
+com\pages\League_Pages.class

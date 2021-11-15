@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.TheScoreTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.406 sec <<< FAILURE!
+getStarted_NavigatingToLeagues(com.tests.TheScoreTest)  Time elapsed: 0.253 sec  <<< FAILURE!
+java.lang.NoSuchMethodError: org.openqa.selenium.support.ui.FluentWait.until(Lcom/google/common/base/Function;)Ljava/lang/Object;
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:165)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:181)
+	at io.appium.java_client.pagefactory.ElementInterceptor.intercept(ElementInterceptor.java:46)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$17c98b36.click(<generated>)
+	at com.pages.Score_pages.getStarted_Click(Score_pages.java:50)
+	at com.tests.TheScoreTest.getStarted_NavigatingToLeagues(TheScoreTest.java:31)
+
