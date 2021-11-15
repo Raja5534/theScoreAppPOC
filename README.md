@@ -1,6 +1,6 @@
 # theScoreAppPOC
 
-Technologies Used :
+**Technologies Used :**
 
 a. Java
 
@@ -14,13 +14,13 @@ e. Maven
 
 f. Page Factory Design Pattern
 
-Pre-reqs:
+**Pre-reqs:**
 
 Eclipse or Any IDE 
 
 Android SDK : To launch AVD
 
-Steps to run the automation :
+**Steps to run the automation :**
 
 Clone the project into the local
 
